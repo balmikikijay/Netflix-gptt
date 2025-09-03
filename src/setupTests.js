@@ -3,3 +3,8 @@
 // expect(element).toHaveTextContent(/react/i)
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom';
+ const hey = () => { 
+    return(
+        console.log("heybro how ar you i'm just telling you how ar ou so that you can recognize me")
+    )
+}
