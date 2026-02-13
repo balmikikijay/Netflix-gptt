@@ -9,7 +9,7 @@ const Login = () => {
     setSignInForm(!signInForm)
   }
   return (
-    <div className="relative h-screen bg-[url('https://assets.nflxext.com/ffe/siteui/vlv3/0b0dad79-ad4d-42b7-b779-8518da389976/web/IN-en-20250908-TRIFECTA-perspective_0647b106-80e1-4d25-9649-63099752b49a_small.')] bg-fixed bg-center bg-cover">
+    <div className="relative h-screen bg-[url('https://assets.nflxext.com/ffe/siteui/vlv3/0b0dad79-ad4d-42b7-b779-8518da389976/web/IN-en-20250908-TRIFECTA-perspective_0647b106-80e1-4d25-9649-63099752b49a_small.jpg')] bg-fixed bg-center bg-cover">
       {/* Overlay */}
       <div className="absolute inset-0 bg-black bg-opacity-40"></div>
       {/* Header logo on top */}
